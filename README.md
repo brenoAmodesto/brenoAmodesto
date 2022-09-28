@@ -1,5 +1,3 @@
-Em contínuo aprendizado desta stack
-
 <!---
 brenoAmodesto/brenoAmodesto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -12,4 +10,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-  
+Algumas ferramentas- > Terraform, GitlabCI, CircleCI, Zabbix, Docker, Ansible, AWS, Kubernetes, Grafana
+Distros -> Ubuntu & RHEL
+Linguagens -> Bash & Python
+
