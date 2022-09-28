@@ -10,7 +10,14 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 Provider -> AWS
+
+
 Algumas ferramentas- > Terraform, GitlabCI, CircleCI, Zabbix, Docker, Ansible, Kubernetes, Grafana
+
+
 Distros -> Ubuntu & RHEL
+
+
+
 Linguagens -> Bash & Python
 
