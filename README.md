@@ -9,8 +9,8 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoAmodesto&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-
-Algumas ferramentas- > Terraform, GitlabCI, CircleCI, Zabbix, Docker, Ansible, AWS, Kubernetes, Grafana
+Provider -> AWS
+Algumas ferramentas- > Terraform, GitlabCI, CircleCI, Zabbix, Docker, Ansible, Kubernetes, Grafana
 Distros -> Ubuntu & RHEL
 Linguagens -> Bash & Python
 
